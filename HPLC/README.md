@@ -1,4 +1,4 @@
-# Daily process
+# Daily process 日常 Nichijou
 - login openlab
 - launch inst.
 - creat sequences
@@ -21,7 +21,31 @@ ANALYSIS\&lt;USR&gt;
 
 &lt;PASSWD&gt;
 
+# 流动相配制
+
+# pH计使用 
+
+# 水分测定
+
+- 每日第一位使用需要标定。
+- 步骤：减重法称量，软件平衡-开始，加样，待测定结束。
+- 固体使用称量舟称量，取 0.5g；液体使用一次性注射器量取 0.5ml。
+- 重复 2 次，记录样本质量、消耗K氏液体积、平均值、RSD%。
+- 天平、水分测定仪标定记录本登记。
+
+## 水分测定仪标定
+
+- 方法：KFT-Titer
+
+- 天平室称量
+
+- 步骤：微量注射器吸取 10μl 超纯水，减重法称量，软件平衡-开始，注水，输入水的质量，待测定结束。
+- 重复3次，记录消耗K氏液体积、平均值、RSD%。
+- RSD% < 1 则合格，否则重测。
+- 天平室天平、水分测定仪标定记录本登记。
+
 # Control Panel
+
 Instruments → .. → &lt;inst.&gt; → Launch
 
 exp : Instruments → GD-grou1 → TI-00332 DAD → Launch
