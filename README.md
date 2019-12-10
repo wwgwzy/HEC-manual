@@ -1,36 +1,20 @@
 # IPC Daily 日常 Nichijou
 
-- login openlab
-- launch inst.
-- creat sequences
-- run sequences
-- repeat creat-run
+- Login Openlab
+- Launch instrument
+- Create sequences
+- Run sequences
+- Repeat create-run
 
-# Account
+# Openlab
 
-## Domain
-
-RD-&lt;USR&gt;
-
-&lt;PASSWD&gt;
-
-## MSTSC
-ANALYSIS\&lt;USR&gt;
-
-&lt;PASSWD&gt;
-
-## Openlab Control Panel
-&lt;USR&gt;
-
-&lt;PASSWD>
-
-# Control Panel
+## Control Panel
 
 Instruments → .. → &lt;inst.&gt; → Launch
 
 exp : Instruments → GD-grou1 → TI-00332 DAD → Launch
 
-# Accquisition
+## Acquisition
 Status → Instrument Status → On
 
 Method → open method → download method
@@ -60,6 +44,8 @@ Result path
 
 Result name
 &lt;sqx. title&gt;
+
+## Data Analysis
 
 # 流动相配制
 
