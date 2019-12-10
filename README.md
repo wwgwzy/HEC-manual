@@ -1,35 +1,44 @@
 # IPC Daily 日常 Nichijou
 
-- Login Openlab
-- Launch instrument
-- Create sequences
-- Run sequences
-- Repeat create-run
+- Login Openlab, launch instrument
+- Create&Run sequences
+- Repeat Create&Run
+- Data analysis
 
 # Openlab
 
 ## Control Panel
 
-Instruments → .. → &lt;inst.&gt; → Launch
+- Enter Acquisition:
+
+Instruments → &lt;group&gt; → &lt;inst.&gt; → Launch
 
 exp : Instruments → GD-grou1 → TI-00332 DAD → Launch
 
+
+
+- Enter Data Analysis:
+
+Projects → &lt;project&gt; → Start data analysis
+
 ## Acquisition
+Turn on device : Status → Instrument Status → On
+
+Select method : Method → open method → download method
+
+Create&Run sequence : Sequence → new sequence → add injections → save sequence → set Result path&name → CHECK →Run
+
+Add sample : pass
 
 
-Status → Instrument Status → On
 
-Method → open method → download method
+new Sequence exp : 
 
-Sequence → new sequence → add injections → save sequence-Result path → Result name → CHECK →Run
+| Vial | Acq.Method | Volume | Sample name | Data file |
+| ---- | ---------- | ------ | ----------- | --------- |
+|99|BV-2...|5|BLANK|&lt;S&gt; &lt;D&gt;|
+|47|BV-2...|5|HCS197...|&lt;S&gt; &lt;D&gt;|
 
-|---|---|---|---|---|
-|Vial|Acq.Method|Volume|Sample name|Data file|
-99 BV-2.. 5 BLANK &lt;S&gt; &lt;D&gt;
-47 BV-2.. 5 HCS197.. &lt;S&gt; &lt;D&gt;
-
-Save sequence
-dir
 /&lt;Project&gt;/Sequences/HPLC/&lt;YYYY&gt;/&lt;YYYYMM&gt;/&lt;YYYYMMDD&gt;
 /BVM 17021/Sequences/HPLC/2019/201912/20191205
 
@@ -53,7 +62,7 @@ Result name
 
 # pH计使用 
 
-# 水分测定
+# 水分测定仪器测定水分
 
 - 每日第一位使用需要标定。
 - 步骤：减重法称量，软件平衡-开始，（若浑浊则换液后）加样，待测定结束，换液。
