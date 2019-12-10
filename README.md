@@ -15,6 +15,8 @@ Instruments → .. → &lt;inst.&gt; → Launch
 exp : Instruments → GD-grou1 → TI-00332 DAD → Launch
 
 ## Acquisition
+
+
 Status → Instrument Status → On
 
 Method → open method → download method
