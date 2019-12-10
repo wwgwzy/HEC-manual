@@ -32,31 +32,36 @@ Add sample : pass
 
 
 
-new Sequence exp : 
+### new Sequence exp
 
 | Vial | Acq.Method | Volume | Sample name | Data file |
 | ---- | ---------- | ------ | ----------- | --------- |
 |99|BV-2...|5|BLANK|&lt;S&gt; &lt;D&gt;|
 |47|BV-2...|5|HCS197...|&lt;S&gt; &lt;D&gt;|
 
-/&lt;Project&gt;/Sequences/HPLC/&lt;YYYY&gt;/&lt;YYYYMM&gt;/&lt;YYYYMMDD&gt;
-/BVM 17021/Sequences/HPLC/2019/201912/20191205
+sqx save path and title
 
-file name(sqx. title)
+sqx path : /&lt;Project&gt;/Sequences/HPLC/&lt;YYYY&gt;/&lt;YYYYMM&gt;/&lt;YYYYMMDD&gt;
+exp : /BVM 17021/Sequences/HPLC/2019/201912/20191205
+
+file name(sqx title)
 &lt;YYYYMMDD&gt;-IPC-&lt;inst.&gt;-&lt;#&gt;.sqx
 20191205-IPC-TI00332-01.sqx
 
-..
-new sequence
 
-Result path
+
+Result path:
 /&lt;Project&gt;/Results/HPLC/&lt;YYYY&gt;/&lt;YYYYMM&gt;/&lt;YYYYMMDD&gt;
 /BVM 17021/Results/HPLC/2019/201912/20191205
 
-Result name
+
+
+Result name:
 &lt;sqx. title&gt;
 
 ## Data Analysis
+
+pass
 
 # 流动相配制
 
