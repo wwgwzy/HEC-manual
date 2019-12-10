@@ -1,36 +1,40 @@
 # IPC Daily 日常 Nichijou
 
-- login openlab
-- launch inst.
-- creat sequences
-- run sequences
-- repeat creat-run
+- Login Openlab
+- Launch instrument
+- Create sequences
+- Run sequences
+- Repeat create-run
 
 # Account
 
-## Domain
+## AD Domain
 
-RD-&lt;USR&gt;
+RD\\&lt;USR&gt;
 
 &lt;PASSWD&gt;
 
 ## MSTSC
-ANALYSIS\&lt;USR&gt;
+cmop : fx.ts.com
+
+ANALYSIS\\&lt;USR&gt;
 
 &lt;PASSWD&gt;
 
 ## Openlab Control Panel
 &lt;USR&gt;
 
-&lt;PASSWD>
+&lt;PASSWD&gt;
 
-# Control Panel
+# Openlab
+
+## Control Panel
 
 Instruments → .. → &lt;inst.&gt; → Launch
 
 exp : Instruments → GD-grou1 → TI-00332 DAD → Launch
 
-# Accquisition
+## Accquisition
 Status → Instrument Status → On
 
 Method → open method → download method
