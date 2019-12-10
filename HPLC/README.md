@@ -1,4 +1,5 @@
-# Daily process 日常 Nichijou
+# Daily 日常 Nichijou
+
 - login openlab
 - launch inst.
 - creat sequences
