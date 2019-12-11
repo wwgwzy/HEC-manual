@@ -1,4 +1,4 @@
-# IPC Daily 日常 Nichijou
+# IPC Daily | 日常 | Nichijou
 
 - Login Openlab, launch instrument
 - Create&Run sequences
@@ -19,7 +19,9 @@ exp : Instruments → GD-grou1 → TI-00332 DAD → Launch
 
 - Enter Data Analysis:
 
-Projects → &lt;project&gt; → Start data analysis
+Projects → &lt;project&gt; → Start Data Analysis
+
+exp : Projects → Generic drug → GD-group 1  → BVM17021 → Start Data Analysis
 
 ## Acquisition
 Turn on device : Status → Instrument Status → On
