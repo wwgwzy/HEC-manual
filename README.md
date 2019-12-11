@@ -27,7 +27,7 @@ exp : Projects → Generic drug → GD-group 1  → BVM17021 → Start Data Anal
 
 - Create&Run sequence : Sequence → new sequence → add injections → save sequence → set Result path&name → CHECK →Run
 
-- Add sample : w4w
+- Add sample : pass
 
 
 
