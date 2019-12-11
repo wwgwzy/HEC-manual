@@ -10,7 +10,7 @@
 
 Instruments → &lt;group&gt; → &lt;inst.&gt; → Launch
 
-exp : Instruments → GD-grou1 → TI-00332 DAD → Launch
+exp : Instruments → GD-grou 1 → TI-00332 DAD → Launch
 
 
 
@@ -21,13 +21,13 @@ Projects → &lt;project&gt; → Start Data Analysis
 exp : Projects → Generic drug → GD-group 1  → BVM17021 → Start Data Analysis
 
 ## Acquisition
-Turn on device : Status → Instrument Status → On
+- Turn on device : Status → Instrument Status → On
 
-Select method : Method → open method → download method
+- Select method : Method → open method → download method
 
-Create&Run sequence : Sequence → new sequence → add injections → save sequence → set Result path&name → CHECK →Run
+- Create&Run sequence : Sequence → new sequence → add injections → save sequence → set Result path&name → CHECK →Run
 
-Add sample : pass
+- Add sample : w4w
 
 
 
@@ -38,14 +38,14 @@ Add sample : pass
 |99|BV-2...|5|BLANK|&lt;S&gt; &lt;D&gt;|
 |47|BV-2...|5|HCS197...|&lt;S&gt; &lt;D&gt;|
 
-sqx save path and title
+.sqx save path and title
 
-sqx path : /&lt;Project&gt;/Sequences/HPLC/&lt;YYYY&gt;/&lt;YYYYMM&gt;/&lt;YYYYMMDD&gt;
+.sqx path : /&lt;Project&gt;/Sequences/HPLC/&lt;YYYY&gt;/&lt;YYYYMM&gt;/&lt;YYYYMMDD&gt;
 exp : /BVM 17021/Sequences/HPLC/2019/201912/20191205
 
 file name(sqx title)
 &lt;YYYYMMDD&gt;-IPC-&lt;inst.&gt;-&lt;#&gt;.sqx
-20191205-IPC-TI00332-01.sqx
+exp : 20191205-IPC-TI00332-01.sqx
 
 
 
@@ -64,7 +64,20 @@ pass
 
 # 流动相配制
 
-# pH计使用 
+- 溶剂水为超纯水。
+- 步骤：称量/量取，溶解/稀释，调 pH，抽滤，装瓶，标签，洗容器。
+- 登记本：天平、pH 计、流动相配制登记本（天平、pH 计型号、试剂厂家批号、配制方法）
+
+## 有机溶剂占比与试剂保存时间
+
+# 使用 pH 计调节溶液 pH 
+
+- 每日第一位使用需要校正。
+- 步骤：纯化水洗电极，开磁搅，KOH/H<sub>3</sub>PO<sub>4</sub> 调节 pH。
+
+## pH计校正
+
+
 
 # 水分测定仪器测定水分
 
@@ -73,13 +86,14 @@ pass
 - 重复 2 次，记录样本质量、消耗K氏液体积、平均值、RSD%。
 - 固体使用称量舟称量，取 0.5g；液体使用一次性注射器量取 0.5ml。
 - 换液操作：停止平衡，手动操作，搅拌速度设定 5，右按钮排液，左按钮进液，50ml（浸没电极）。
-- 天平、水分测定仪标定记录本登记。
+- 登记本：天平、水分测定仪标定记录本。
+- 针头特定回收。
 
 ## 水分测定仪标定
 
 - 方法：KFT-Titer
 - 天平室称量
 - 步骤：微量注射器吸取 10μl 超纯水，减重法称量，软件平衡-开始，注水，输入水的质量，待测定结束。
-- 重复3次，记录水的质量、消耗K氏液体积、平均值、RSD%。
+- 重复 3 次，记录水的质量、消耗K氏液体积、平均值、RSD%。
 - RSD% < 1 则合格，否则重测。
 - 天平室天平、水分测定仪标定记录本登记。
