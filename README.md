@@ -1,9 +1,6 @@
 # IPC Daily | 日常 | Nichijou
 
-- Login Openlab, launch instrument
-- Create&Run sequences
-- Repeat Create&Run
-- Data analysis
+- Login Openlab, Launch instrument, Create&Run sequences, Data analysis
 
 # Openlab
 
