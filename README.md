@@ -2,6 +2,16 @@
 
 - Login Openlab, Launch instrument, Create&Run sequences, Data analysis
 
+# HPLC
+
+## 后续处理
+序列走完而后无，降流速
+下午下班则提交关机洗柱
+
+## 洗柱
+
+## 排气泡
+
 # Openlab
 
 ## Control Panel
@@ -62,12 +72,6 @@ Result name:
 
 pass
 
-# HPLC
-
-## 洗柱
-
-## 排气泡
-
 # 流动相配制
 
 - 溶剂水为超纯水。
@@ -75,6 +79,12 @@ pass
 - 登记本：天平、pH 计、流动相配制登记本（天平、pH 计型号、试剂厂家批号、配制方法）。
 
 ## 有机溶剂占比与试剂保存时间
+|有机溶液占比|保质期|
+|---|---|
+|5%|3D|
+|10%|1W|
+|30%|1M|
+|100%|1Y|
 
 # 使用 pH 计调节溶液 pH 
 
