@@ -4,7 +4,12 @@
 
 # HPLC
 
+## 提交空白样本
+
+洗柱或换 Acq. Method 后需要在序列首位提交空白样本。
+
 ## 后续处理
+
 序列走完而后无送样，降流速
 
 下午下班提交关机洗柱
@@ -32,6 +37,7 @@ Projects → &lt;project&gt; → Start Data Analysis
 exp : Projects → Generic drug → GD-group 1  → BVM17021 → Start Data Analysis
 
 ## Acquisition
+
 - Turn on device : Status → Instrument Status → On
 
 - Select method : Method → open method → download method
@@ -80,6 +86,7 @@ pass
 - 登记本：天平、pH 计、流动相配制登记本（天平、pH 计型号、试剂厂家批号、配制方法）。
 
 ## 有机溶剂占比与试剂保存时间
+
 |有机溶液占比|保质期|
 |---|---|
 |5%|3D|
