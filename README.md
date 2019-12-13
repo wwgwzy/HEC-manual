@@ -22,6 +22,8 @@
 
 ## 排气泡
 
+松阀门，流速 3
+
 # Openlab
 
 ## Control Panel
