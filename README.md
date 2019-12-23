@@ -1,6 +1,9 @@
 # IPC Daily | 日常 | Nichijou
 
-- Login Openlab, Launch instrument, Create&Run sequences, Data analysis
+- 又名《一个实习分析师的自我修养》。
+- 好好学习，天天向上。
+
+- Login Openlab, Launch instrument, Create&Run sequences, Data analysis.
 
 [TOC]
 
@@ -89,14 +92,10 @@ Result name:
 
 pass
 
-# 溶液配制
-
-pass
-
 # 流动相配制
 
 - 溶剂水为超纯水。
-- 步骤：称量/量取，溶解/稀释，调 pH，抽滤，装瓶，标签，洗容器。
+- 步骤：称量/量取，溶解/稀释，（调 pH，抽滤，）装瓶，标签，洗容器。
 - 登记本：天平、pH 计、流动相配制登记本（天平、pH 计型号、试剂厂家批号、配制方法）。
 
 ## 有机溶剂占比与试剂保存时间
